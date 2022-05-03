@@ -1,0 +1,4 @@
+org\example\AppTest.class
+org\example\CloseUrl.class
+org\example\OpenUrl.class
+org\example\OpenUrlWithJunit.class
